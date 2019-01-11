@@ -10,8 +10,7 @@ _This is a website for displaying information about myself and my projects._
 
 ## Setup Instructions
 
-_The file index.html is the top-level file. Load that file in a browser to display
-_the webpage. Or use this URL: https://markstrickland562.github.io/portfolio/. _
+_The file "index.html" is the top-level file. Load that file in a browser to display the webpage. Or use this URL: https://markstrickland562.github.io/portfolio/. _
 
 ## Support and contact details
 
