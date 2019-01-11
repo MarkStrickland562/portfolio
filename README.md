@@ -27,6 +27,5 @@ _Contact Mark Strickland for technical support and more details._
 
 ### License
 _Open source free use_
-**
 
 Copyright (c) 2019 **_Mark Strickland_**
