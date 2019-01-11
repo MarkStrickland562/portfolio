@@ -35,7 +35,7 @@ img {
   border-right: : 1px solid;
   padding: 5px;
 }
-col-noborder {
+.col-noborder {
   padding: 5px;
 }
 h5 {
